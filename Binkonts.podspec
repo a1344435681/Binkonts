@@ -12,5 +12,5 @@ to retrieve iOS device information, such as model name, system version, and othe
   s.source           = { :git => 'https://github.com/a1344435681/Binkonts.git', :tag => s.version }
   s.platform         = :ios, '12.0'
   s.requires_arc     = true
-  s.source_files = 'Classes/**/*.{h,m}'
+  s.source_files = 'Binkonts/Classes/**/*'
 end
